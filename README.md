@@ -13,10 +13,13 @@ To run the strategy locally, you need to install the [Quantiacs Toolbox](https:/
 ## Strategy Overview
 
 ### Key Features:
-Universe: NASDAQ-100 stocks
-Trading Logic: Positions are created by calculated signals, with exits for taking profit, stopping loss, and day counting positions.
-Indicators Used: Exponential Moving Average (EMA), True Range (TR), Average True Range (ATR), etc.
-State Management: Utilizes the Quantiacs state management system to maintain and update strategy state across different days.
+-Universe: NASDAQ-100 stocks
+
+-Trading Logic: Positions are created by calculated signals, with exits for taking profit, stopping loss, and day counting positions
+
+-Indicators Used: Exponential Moving Average (EMA), True Range (TR), Average True Range (ATR), etc.
+
+-State Management: Utilizes the Quantiacs state management system to maintain and update strategy state across different days.
 
 ## Strategy Overview
 
